@@ -1,6 +1,6 @@
 # 🌙 Base Lunar
 
-**Código:** GBL-02
+**Código:** GBL-02 sdf
 **Ubicación:** Cara oculta de la Luna, Cráter Obscura
 **Responsable:** Brainiac
 **Estado:** 🟡 Operativa con restricciones
