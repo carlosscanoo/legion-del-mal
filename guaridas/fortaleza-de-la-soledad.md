@@ -1,1 +1,0 @@
-# Fortaleza de la soledad
