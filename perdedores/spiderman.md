@@ -13,3 +13,7 @@ Spiderman es..
 # Amigos
 
 - el pazon
+
+# Informacion de spiderman
+
+- es un aracnido
