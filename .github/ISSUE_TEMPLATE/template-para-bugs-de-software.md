@@ -2,7 +2,7 @@
 name: Template para bugs de software
 about: Ayudanos a mejorar la aplicacion
 title: 'Bug: '
-labels: bug
+labels: bug, Mejora de software
 assignees: carlosscanoo
 type: Bug
 
